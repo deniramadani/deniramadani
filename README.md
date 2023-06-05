@@ -10,7 +10,7 @@
 <!-- Status Codes -->
 <a align="center" href="https://deniramadani.github.io">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=deniramadani&show_icons=true&theme=radical" alt="my github stats" width="420"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deniramadani&hide=php,html,hack,makefile,css,blade,ejs,scss&langs_count=6&theme=radical&layout=compact" alt="languages" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=deniramadani&show_icons=true&theme=radical" alt="my github stats" width="420"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deniramadani&hide=hack,makefile,css,blade,ejs,scss&langs_count=6&theme=radical&layout=compact" alt="languages" height="165">
   </p>
 </a>
 
